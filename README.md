@@ -30,7 +30,6 @@ A decentralized cloud storage terminal application based on Nostr, featuring end
 2. **Clone the Repository**
    ```
    git clone https://github.com/drivestr/drivestr-cli.git
-   
    ```
 
 3. **Start using Drivestr**
