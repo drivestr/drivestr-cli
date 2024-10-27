@@ -28,10 +28,15 @@ A decentralized cloud storage terminal application based on Nostr, featuring end
      ```
 
 2. **Clone the Repository**
-   ```git clone https://github.com/drivestr/drivestr-cli.git```
+   ```
+   git clone https://github.com/drivestr/drivestr-cli.git
+   
+   ```
 
 3. **Start using Drivestr**
 
-```cd drivestr-cli
+```
+cd drivestr-cli
 dart pub get
-dart run lib/main.dart```
+dart run lib/main.dart
+```
